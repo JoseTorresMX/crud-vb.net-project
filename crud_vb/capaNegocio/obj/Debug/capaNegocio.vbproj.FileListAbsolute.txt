@@ -15,3 +15,4 @@ E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\obj\Debug\capaNego.859CFD04
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\obj\Debug\capaNegocio.dll
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\obj\Debug\capaNegocio.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\obj\Debug\capaNegocio.pdb
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\Guna.UI2.dll

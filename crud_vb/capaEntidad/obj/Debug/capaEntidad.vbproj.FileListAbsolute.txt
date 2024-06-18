@@ -8,3 +8,5 @@ E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.vbpro
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.dll
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.pdb
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\bin\Debug\Guna.UI2.dll
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEnti.531CA392.Up2Date

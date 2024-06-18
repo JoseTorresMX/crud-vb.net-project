@@ -16,3 +16,5 @@ E:\VB dotNet\crud-vb.net-project\crud_vb\capaPresentacion\bin\Debug\capaEntidad.
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaPresentacion\bin\Debug\capaNegocio.pdb
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaPresentacion\bin\Debug\capaNegocio.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaPresentacion\obj\Debug\capaPres.EA224A08.Up2Date
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaPresentacion\bin\Debug\Guna.UI2.dll
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaPresentacion\obj\Debug\capaPresentacion.frm_Empleado.resources

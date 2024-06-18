@@ -12,3 +12,4 @@ E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\obj\Debug\capaDatos.vbproj.Up
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\obj\Debug\capaDatos.dll
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\obj\Debug\capaDatos.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\obj\Debug\capaDatos.pdb
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\bin\Debug\Guna.UI2.dll

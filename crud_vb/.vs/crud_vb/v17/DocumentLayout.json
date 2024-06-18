@@ -7,15 +7,19 @@
       "RelativeMoniker": "D:0:0:{76876EFA-6FB6-42E8-803E-09467E8FE6FA}|capaPresentacion\\capaPresentacion.vbproj|solutionrelative:capapresentacion\\frm_empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D0E8767-846B-461B-A91D-246A7E2C1560}|capaNegocio\\capaNegocio.vbproj|e:\\vb dotnet\\crud-vb.net-project\\crud_vb\\capanegocio\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{76876EFA-6FB6-42E8-803E-09467E8FE6FA}|capaPresentacion\\capaPresentacion.vbproj|e:\\vb dotnet\\crud-vb.net-project\\crud_vb\\capapresentacion\\frm_empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{76876EFA-6FB6-42E8-803E-09467E8FE6FA}|capaPresentacion\\capaPresentacion.vbproj|solutionrelative:capapresentacion\\frm_empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0E8767-846B-461B-A91D-246A7E2C1560}|capaNegocio\\capaNegocio.vbproj|E:\\VB dotNet\\crud-vb.net-project\\crud_vb\\capanegocio\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{8D0E8767-846B-461B-A91D-246A7E2C1560}|capaNegocio\\capaNegocio.vbproj|solutionrelative:capanegocio\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E5918CD-D113-4FBE-970F-D201DE0B4F82}|capaEntidad\\capaEntidad.vbproj|e:\\vb dotnet\\crud-vb.net-project\\crud_vb\\capaentidad\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{2E5918CD-D113-4FBE-970F-D201DE0B4F82}|capaEntidad\\capaEntidad.vbproj|E:\\VB dotNet\\crud-vb.net-project\\crud_vb\\capaentidad\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{2E5918CD-D113-4FBE-970F-D201DE0B4F82}|capaEntidad\\capaEntidad.vbproj|solutionrelative:capaentidad\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC1C4C17-B327-494C-BDED-105F9EAE035B}|capaDatos\\capaDatos.vbproj|e:\\vb dotnet\\crud-vb.net-project\\crud_vb\\capadatos\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CC1C4C17-B327-494C-BDED-105F9EAE035B}|capaDatos\\capaDatos.vbproj|E:\\VB dotNet\\crud-vb.net-project\\crud_vb\\capadatos\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CC1C4C17-B327-494C-BDED-105F9EAE035B}|capaDatos\\capaDatos.vbproj|solutionrelative:capadatos\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Empleado.vb",
+              "DocumentMoniker": "E:\\VB dotNet\\crud-vb.net-project\\crud_vb\\capaPresentacion\\frm_Empleado.vb",
+              "RelativeDocumentMoniker": "capaPresentacion\\frm_Empleado.vb",
+              "ToolTip": "E:\\VB dotNet\\crud-vb.net-project\\crud_vb\\capaPresentacion\\frm_Empleado.vb",
+              "RelativeToolTip": "capaPresentacion\\frm_Empleado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T01:05:57.054Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -42,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.vb",
               "DocumentMoniker": "E:\\VB dotNet\\crud-vb.net-project\\crud_vb\\capaNegocio\\Class1.vb",
               "RelativeDocumentMoniker": "capaNegocio\\Class1.vb",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.vb",
               "DocumentMoniker": "E:\\VB dotNet\\crud-vb.net-project\\crud_vb\\capaEntidad\\Class1.vb",
               "RelativeDocumentMoniker": "capaEntidad\\Class1.vb",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class1.vb",
               "DocumentMoniker": "E:\\VB dotNet\\crud-vb.net-project\\crud_vb\\capaDatos\\Class1.vb",
               "RelativeDocumentMoniker": "capaDatos\\Class1.vb",
