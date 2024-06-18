@@ -2,6 +2,7 @@ E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\bin\Debug\capaDatos.dll
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\bin\Debug\capaDatos.pdb
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\bin\Debug\capaDatos.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\bin\Debug\capaEntidad.dll
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\bin\Debug\Guna.UI2.dll
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\bin\Debug\capaEntidad.pdb
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\bin\Debug\capaEntidad.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\obj\Debug\capaDatos.vbproj.AssemblyReference.cache
@@ -12,4 +13,3 @@ E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\obj\Debug\capaDatos.vbproj.Up
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\obj\Debug\capaDatos.dll
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\obj\Debug\capaDatos.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\obj\Debug\capaDatos.pdb
-E:\VB dotNet\crud-vb.net-project\crud_vb\capaDatos\bin\Debug\Guna.UI2.dll

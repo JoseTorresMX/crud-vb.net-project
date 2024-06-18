@@ -3,6 +3,7 @@ E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\capaNegocio.pdb
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\capaNegocio.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\capaDatos.dll
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\capaEntidad.dll
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\Guna.UI2.dll
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\capaDatos.pdb
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\capaDatos.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\capaEntidad.pdb
@@ -15,4 +16,3 @@ E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\obj\Debug\capaNego.859CFD04
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\obj\Debug\capaNegocio.dll
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\obj\Debug\capaNegocio.xml
 E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\obj\Debug\capaNegocio.pdb
-E:\VB dotNet\crud-vb.net-project\crud_vb\capaNegocio\bin\Debug\Guna.UI2.dll
