@@ -1,0 +1,10 @@
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\bin\Debug\capaEntidad.dll
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\bin\Debug\capaEntidad.pdb
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\bin\Debug\capaEntidad.xml
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.vbproj.AssemblyReference.cache
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.Resources.resources
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.vbproj.GenerateResource.cache
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.vbproj.CoreCompileInputs.cache
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.dll
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.xml
+E:\VB dotNet\crud-vb.net-project\crud_vb\capaEntidad\obj\Debug\capaEntidad.pdb
